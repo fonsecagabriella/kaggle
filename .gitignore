@@ -210,3 +210,6 @@ __marimo__/
 mlflow_db/*
 mlartifacts/*
 mlruns/*
+
+# submission files
+*/submissions/*
