@@ -37,8 +37,8 @@ The goal of this repository is not only to keep final scores, but also to docume
 
 | Date | Competition | Type | Metric | Result | Rank | Folder |
 |------|-------------|------|--------|--------|------|--------|
-| **2026-02** | **Predicting Heart Disease** | Binary classification | **ROC-AUC** | **0.95522 private / 0.95374 public** | **690 / 4,371** *(Top 16%)* | `2026_02_prediciting_heart_disease/` |
-| **2025-10** | **Predicting Road Accident Risk** | Regression | **RMSE** | **0.05579** | **839 / 4,083** *(Top 20%)* | `2025_10_predicting_road_accident_risk/` |
+| **2026-02** | **Predicting Heart Disease** | Binary classification | **ROC-AUC** | **0.95522 private / 0.95374 public** | **690 / 4,371** *(Top 16%)* | [`2026_02_prediciting_heart_disease/`](./2026_02_predicting_heart_disease/) |
+| **2025-10** | **Predicting Road Accident Risk** | Regression | **RMSE** | **0.05579** | **839 / 4,083** *(Top 20%)* | [`2025_10_predicting_road_accident_risk/`](./2025_10_predicting_road_accident_risk/) |
 
 ---
 
